@@ -6,8 +6,8 @@ export PATH
 #	System Required: CentOS 6/7,Debian 8/9,Ubuntu 16+
 #	Description: BBR+BBR魔改版+BBRplus+Lotserver
 #	Version: 1.2.1
-#	Author: 千影,cx9208
-#	Blog: https://www.94ish.me/
+#	Author: 云上中国
+#	Blog: http://www.40198.tw/
 #=================================================
 
 sh_ver="1.2.1"
